@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d508946d-4629-4349-9db5-af164f27df8e",
+  "id_short": 752204,
+  "published_at": "2026-04-18T19:50:43Z",
+  "repo_name": "all-restaurants-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-752204",
+  "sample_asset_name": "beamstation_752204_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/752204/beamstation_752204_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
+  "sample_records": 632,
+  "sample_sha256": "f259a00429224b6ecd23ad9560254740f8fbd8c6329fd302ab3f8707716311cd",
+  "sample_size_bytes": 2375815,
+  "total_records": 6325
+}
