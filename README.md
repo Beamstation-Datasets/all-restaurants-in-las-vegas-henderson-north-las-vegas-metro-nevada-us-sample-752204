@@ -1,6 +1,6 @@
 # All Restaurants in Las Vegas-Henderson-North Las Vegas (Metro), Nevada, US
 
-> Free BeamStation sample export with 632 rows and masked direct-contact fields.
+> Free BeamStation sample export with 501 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `752204` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 6,325 records |
-| Free sample size | 632 records (9.99%) |
-| Last export | 2026-04-14T20:03:18.820183+00:00 |
+| Full dataset size | 5,017 records |
+| Free sample size | 501 records (9.99%) |
+| Last export | 2026-04-21T22:07:51.781284+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-752204/releases/download/sample-latest/beamstation_752204_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
