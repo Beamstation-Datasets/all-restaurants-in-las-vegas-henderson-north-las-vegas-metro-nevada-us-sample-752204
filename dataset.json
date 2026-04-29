@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant data for the Las Vegas-Henderson-North Las Vegas metro in Nevada. Covers the entertainment capital's massive hospitality and dining market, filtered by the Restaurants category group. Includes business profiles, ratings, review analytics, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Las Vegas-Henderson-North Las Vegas (Metro), Nevada, US",
-  "export_job_id": "ce8d0373-4408-4c10-a0e1-9fdb65ad58a3",
+  "export_job_id": "d23c0ccc-97c1-4bc0-b2e0-69b422466d79",
   "github_org": "Beamstation-Datasets",
   "id_short": 752204,
   "location_name": "Las Vegas-Henderson-North Las Vegas, NV",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-752204",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/752204/beamstation_752204_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 501,
-  "sample_sha256": "0ffc67dfe61b8f93fd0abeec12e5b514f1a55b77b377382524d3a90367c0b995",
-  "sample_size_bytes": 1876630,
-  "total_records": 5017,
-  "updated_at": "2026-04-21T22:07:51.781284+00:00"
+  "sample_records": 639,
+  "sample_sha256": "b2a0a10d9f6db4be0f686ab966053702c842b3e1411d052545202104d56d78bd",
+  "sample_size_bytes": 2184366,
+  "total_records": 6396,
+  "updated_at": "2026-04-29T01:05:44.518494+00:00"
 }
